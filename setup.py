@@ -83,7 +83,7 @@ with open("README.md", "r", "utf-8") as f:
     readme = f.read()
 
 setup(
-    name=about["__title__"],
+    name='req_hello_boba',
     version=about["__version__"],
     description=about["__description__"],
     long_description=readme,
