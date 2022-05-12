@@ -13,7 +13,7 @@ if CURRENT_PYTHON < REQUIRED_PYTHON:
     sys.stderr.write(
         """
 ==========================
-test
+testц
 Unsupported Python version
 ==========================
 This version of Requests requires at least Python {}.{}, but
